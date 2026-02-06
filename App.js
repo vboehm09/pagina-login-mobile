@@ -29,7 +29,7 @@ export default function App() {
       </View>
 
       <TouchableOpacity style={styles.botao}>
-        <Text style={styles.textBotao}>Create an account</Text>
+        <Text style={styles.textoBotao}>Create an account</Text>
       </TouchableOpacity>
 
     </View>
